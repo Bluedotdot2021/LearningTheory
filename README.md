@@ -45,8 +45,8 @@
 - 第5场：概率近似正确PAC（2024.6.2  19:30  腾讯会议直播  约90分钟）
 
 ## 课程回看
-直播课程为收付课程，每场9.9元，可录屏。PRML Page-by-page项目合辑用户免费。直播结束后已转成B站收费课程。
-（课程链接待补充）
+直播课程为付费课程，每场9.9元，可录屏。PRML Page-by-page项目合辑用户免费。直播结束后已转成B站收费课程。
+课程链接：https://www.bilibili.com/cheese/play/ss22745?csource=private_space_class_null&spm_id_from=333.999.0.0
 
 ## 谁是淡蓝小点
 淡蓝小点是PRML Page-by-page项目的发起人，这是一个旨在帮助机器学习从业人员读懂PRML每一页的项目，它包括约80小时的视频和一本1000页的note，可通过下面链接找到相关视频。若想要note请加微信索取。
